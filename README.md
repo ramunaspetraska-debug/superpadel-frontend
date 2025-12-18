@@ -60,3 +60,5 @@ All API access flows through `src/services/api.ts`. When no backend is configure
 - Default dark theme with gradients, glassmorphism cards, and subtle shadows
 - Responsive grids and stacked sections for mobile
 - Accessible focus states and semantic markup
+=======
+>>>>>>> 9d6684c32d97f1bd5a82482ff49068c309502127
